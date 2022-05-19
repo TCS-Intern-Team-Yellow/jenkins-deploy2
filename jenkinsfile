@@ -10,6 +10,7 @@ pipeline {
 				    mkdir jenkins20220518_1
 				    exit
 				    EOF"""
+				    
 				}
 			}
 		}
